@@ -1,6 +1,11 @@
-// array of questions for user
-const questions = [
+const inquirer = require("inquirer");
+const fs = require("fs");
+//const util = require("util");
 
+
+// array of questions for user
+//const questions = [
+inquirer.prompt([
 {
     type: "input",
     title: "title",
@@ -32,7 +37,7 @@ const questions = [
     message: "how is this application tested?",
 },
 {
-    type: "list",
+    type: "checkbox",
     message: "what license is your project under?",
     name: "license",
     choices: [
@@ -41,16 +46,29 @@ const questions = [
         "GPL"
     ]
 },
-];
+{
+    type: "input",
+    title: "GitHub repository",
+    message: "Please enter your GitHub address",
+},
+{
+        type: "input",
+        title: "eamiladdress",
+        message: "Please enter your email address",
+},
 
-// function to write README file
-function writeToFile(fileName, data) {
-}
 
-// function to initialize program
-function init() {
+]).then(function(data) {
 
-}
-
-// function call to initialize program
-init();
+    var filename = data.name.toLowerCase().split(' ').join('') + ".json";
+  
+    fs.writeFile(filename, JSON.stringify(data, null, '\t'), function(err) {
+  
+      if (err) {
+        return console.log(err);
+      }
+  
+      console.log("Success!");
+  
+    });
+  });
