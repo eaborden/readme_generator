@@ -1,6 +1,9 @@
 
-  
-  # sssds
+ 
+  ![](https://img.shields.io/badge/license-GPL-blue.svg)
+
+
+  ### README GEnerator
 
   # Description  
   ddd
@@ -15,22 +18,22 @@
   
   # Installation
 
-  ddd
+  dd
  
   # Usage
   dd
   
   # License
-  
+  GPL
   
   # Contributing
   dd
   
   # Tests
-  dd
+  ddd
   
   # Question
-  dd
+  View my GitHub repository here: https://github.com/eaborden/readme_generator
 
-  dd
-
+  Contact me at the folling email address: arroll.borden@gmail.com
+ 
