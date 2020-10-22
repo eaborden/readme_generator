@@ -62,7 +62,7 @@ Image 1. The image below shows the files in the repository with descriptions of 
 
 Image 2. Navigate to the devlopement folder of the repository.
 
-![npm_install](./assets/images/npm_install.png)
+![./assets/images/npm_install.png]
 
 ---
 
