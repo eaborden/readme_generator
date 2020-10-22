@@ -57,21 +57,20 @@ Run through the questions as thuroughly as you want for our readme See images an
 
 Image 1. The image below shows the files in the repository with descriptions of each file. 
 
-![repository](https://github.com/eaborden/readme_generator/blob/master/Assests/images/indexjs.PNG)
+
 
 
 ---
 
 Image 2. Navigate to the devlopement folder of the repository.
 
-![./assets/images/npm_install.png]
+
 
 ---
 
 Image 3. After the inquirer package is installed, type node inthe command line.  Using the CTRL key with the letter D wwill bring you back to the folder location.  Type node index.js.  Hit the return key and the application will start with the first prompt.  See video demostration for a walk
 through the prompt and README.md creation.
 
-![node](./assets/images/indexjs.png)
 
 ---
 
