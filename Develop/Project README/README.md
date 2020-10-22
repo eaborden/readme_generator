@@ -57,8 +57,7 @@ Run through the questions as thuroughly as you want for our readme See images an
 
 Image 1. The image below shows the files in the repository with descriptions of each file. 
 
-![repository](./Assets/images/repository.png)
-
+![repository](https://github.com/eaborden/readme_generator/tree/master/Assets/images/repository.png)
 ---
 
 Image 2. Navigate to the devlopement folder of the repository.
