@@ -1,7 +1,7 @@
 # README.md Generator
 
 ## GitHub Repository
-
+[Repository Link](https://github.com/eaborden/readme_generator)
 
 ### PROJECT DESCRIPTION
 
@@ -12,8 +12,8 @@ A good README file for a project describes the goal of the project, essential el
   * [Required Elements](#required-elements)
   * [Requirements](#requirements)
   * [Environment Setup](#environment-setup)
-  * [Project Images](#Project-Images)
-  * [Video Demonstration](#Video-Demonstration)
+  * [Project Images](#project-images)
+  * [Video Demonstration](#video-demonstration)
   * [Resources](#resources)
 
 
@@ -57,25 +57,26 @@ Run through the questions as thuroughly as you want for our readme See images an
 
 Image 1. The image below shows the files in the repository with descriptions of each file. 
 
-![repository](/assets/images/repository.png)
+![repository](https://github.com/eaborden/readme_generator/blob/master/Assets/images/repository.PNG?raw=true)
+
 
 ---
 
-Image 2. Navigate to the devlopement folder of the repository.
+Image 2. Navigate to the develop folder of the repository in your terminal.  Install the inquirer package.
 
-![npm_install](/assets/images/npm_install.png)
+![npm_install](https://github.com/eaborden/readme_generator/blob/master/Assets/images/npm_install.PNG?raw=true)
 
 ---
 
 Image 3. After the inquirer package is installed, type node inthe command line.  Using the CTRL key with the letter D wwill bring you back to the folder location.  Type node index.js.  Hit the return key and the application will start with the first prompt.  See video demostration for a walk
 through the prompt and README.md creation.
 
-![node](/assets/images/indexjs.png)
-
+![index](https://github.com/eaborden/readme_generator/blob/master/Assets/images/indexjs.PNG?raw=true)
 ---
 
 ## Video Demonstration 
 
+[Video Tutorial](https://drive.google.com/file/d/1IliyrMUaroERhf6O0lhLnBKDfGcaOMWD/view?usp=sharing)
 
 ## Resources 
 \
