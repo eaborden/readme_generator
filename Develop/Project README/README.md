@@ -62,7 +62,7 @@ Image 1. The image below shows the files in the repository with descriptions of 
 
 ---
 
-Image 2. Navigate to the development folder of the repository in your terminal.  Install the inquirer package.
+Image 2. Navigate to the develop folder of the repository in your terminal.  Install the inquirer package.
 
 ![npm_install](https://github.com/eaborden/readme_generator/blob/master/Assets/images/npm_install.PNG?raw=true)
 
@@ -75,6 +75,7 @@ through the prompt and README.md creation.
 ---
 
 ## Video Demonstration 
+
 
 
 ## Resources 
