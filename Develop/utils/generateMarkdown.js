@@ -5,9 +5,9 @@ function generateMarkdown(data) {
   ![](https://img.shields.io/badge/license-${data.license}-blue.svg)
 
 
-  ### ${data.title}
+  # ${data.title}
 
-  # Description  
+  ## Description  
   ${data.description}
 
   # Table of Contents
@@ -18,23 +18,23 @@ function generateMarkdown(data) {
   * [Tests](#test)
   * [Questions](#questions)
   
-  # Installation
+  ## Installation
 
   ${data.installation}
  
-  # Usage
+  ## Usage
   ${data.usage}
   
-  # License
+  ## License
   ${data.license}
   
-  # Contributing
+  ## Contributing
   ${data.contributing}
   
-  # Tests
+  ## Tests
   ${data.test}
   
-  # Question
+  ## Question
   View my GitHub repository here: ${data.githubRepo}\n
   Contact me at the folling email address: ${data.emailAddress}
  

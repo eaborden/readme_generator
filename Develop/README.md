@@ -1,12 +1,12 @@
 
  
-  ![](https://img.shields.io/badge/license-GPL-blue.svg)
+  ![](https://img.shields.io/badge/license-BSD-blue.svg)
 
 
-  ### README GEnerator
+  # ssss
 
-  # Description  
-  ddd
+  ## Description  
+  sss
 
   # Table of Contents
   * [Installation](#installation)
@@ -16,24 +16,24 @@
   * [Tests](#test)
   * [Questions](#questions)
   
-  # Installation
+  ## Installation
 
-  dd
+  sss
  
-  # Usage
-  dd
+  ## Usage
+  ss
   
-  # License
-  GPL
+  ## License
+  BSD
   
-  # Contributing
-  dd
+  ## Contributing
+  ss
   
-  # Tests
-  ddd
+  ## Tests
+  ss
   
-  # Question
-  View my GitHub repository here: https://github.com/eaborden/readme_generator
+  ## Question
+  View my GitHub repository here: dd
 
-  Contact me at the folling email address: arroll.borden@gmail.com
+  Contact me at the folling email address: ddd
  
