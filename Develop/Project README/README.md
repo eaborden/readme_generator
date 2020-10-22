@@ -57,7 +57,7 @@ Run through the questions as thuroughly as you want for our readme See images an
 
 Image 1. The image below shows the files in the repository with descriptions of each file. 
 
-![repository](https://github.com/eaborden/readme_generator/issues/1#issue-727048088)
+![repository](Assets/images/indexjs.PNG)
 ---
 
 Image 2. Navigate to the devlopement folder of the repository.
