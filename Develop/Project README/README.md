@@ -57,7 +57,7 @@ Run through the questions as thuroughly as you want for our readme See images an
 
 Image 1. The image below shows the files in the repository with descriptions of each file. 
 
-![repository](./assets/images/repository.png)
+![repository](/Assets/images/repository.png)
 
 ---
 
