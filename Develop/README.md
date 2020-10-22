@@ -1,39 +1,39 @@
 
  
-  ![](https://img.shields.io/badge/license-BSD-blue.svg)
+  ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
-  # ssss
+  # README Generator
 
   ## Description  
-  sss
+  A command line program that accepts input from the developer to create a professional looking README.md file.
 
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#test)
+  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
 
-  sss
+  nodejs
  
   ## Usage
-  ss
+  Creating a README for development projects.
   
   ## License
-  BSD
+  MIT
   
   ## Contributing
-  ss
+  The Giyhub repository is public and can be expanded upon.  Issues can be added to the repository for future development.
   
   ## Tests
-  ss
+  Running nodejs and the index.js file
   
-  ## Question
-  View my GitHub repository here: dd
+  ## Questions
+  View my GitHub repository here: https://github.com/eaborden/readme_generator
 
-  Contact me at the folling email address: ddd
+  Contact me at the folling email address: arroll.borden@gmail.com
  
