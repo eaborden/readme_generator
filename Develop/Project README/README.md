@@ -12,8 +12,8 @@ A good README file for a project describes the goal of the project, essential el
   * [Required Elements](#required-elements)
   * [Requirements](#requirements)
   * [Environment Setup](#environment-setup)
-  * [Project Images](#Project-Images)
-  * [Video Demonstration](#Video-Demonstration)
+  * [Project Images](#project-images)
+  * [Video Demonstration](#video-demonstration)
   * [Resources](#resources)
 
 
@@ -57,7 +57,7 @@ Run through the questions as thuroughly as you want for our readme See images an
 
 Image 1. The image below shows the files in the repository with descriptions of each file. 
 
-![repository](/Assets/images/repository.png)
+![repository](./Assets/images/repository.png)
 
 ---
 
